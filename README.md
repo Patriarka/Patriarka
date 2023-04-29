@@ -22,6 +22,4 @@ My mother tongue is Brazilian Portuguese. I have studied some Spanish, but curre
 
 </tr></table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriarka&count_private=true&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriarka)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriarka&count_private=true&show_icons=true&theme=moltack)
