@@ -20,15 +20,8 @@ My mother tongue is Brazilian Portuguese. I have studied some Spanish, but curre
 
 <table><tr>
 
-<td align="center">
-<img src="https://cdn.britannica.com/36/4336-004-6BD81071/Flag-Spain.jpg" width="54" height="40" />
-
-<img src="https://seeklogo.com/images/B/bandeira-brasil-logo-3F0F3A2799-seeklogo.com.png" width="54" height="40" />
-
-<img  height="40" width="54" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
-
 </tr></table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriarka&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriarka&count_private=true&show_icons=true&theme=dracula)
 
-[![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
