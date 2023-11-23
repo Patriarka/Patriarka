@@ -6,7 +6,7 @@ Here, you will find some personal projects, college work, and the content of som
 
 ### Who am I?
 
-I'm 21 years old, and I'm currently a student at the Federal Technological University of Paraná.
+I'm 22 years old, and I'm currently a student at the Federal Technological University of Paraná.
 
 ### What am I learning?
 
