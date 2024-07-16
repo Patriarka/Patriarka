@@ -8,7 +8,7 @@ Here, you will find some personal projects, college work, and the content of som
 
 ### Who am I?
 
-I'm 22 years old, and I'm currently a student at the Federal Technological University of Paraná.
+I am 22 years old, and I am currently a student at the Federal Technological University of Paraná. I am also enrolled in a dual degree program at the Polytechnic Institute of Bragança (IPB), where I am pursuing a master's degree in Informatics. In Brazil, I am completing a bachelor's degree in Computer Science.
 
 ### What am I learning?
 
