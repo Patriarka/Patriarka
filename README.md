@@ -4,22 +4,39 @@
 
 ### What will you find here?
 
-Here, you will find some personal projects, college work, and the content of some courses.
+Here, you will find personal projects, academic work, and code from various courses and challenges.
 
 ### Who am I?
 
-I am 22 years old, and I am currently a student at the Federal Technological University of Paraná. I am also enrolled in a dual degree program at the Polytechnic Institute of Bragança (IPB), where I am pursuing a master's degree in Informatics. In Brazil, I am completing a bachelor's degree in Computer Science.
+I hold a **Master's degree in Informatics** from the Polytechnic Institute of Bragança (IPB) in Portugal, and a Bachelor's degree in Computer Science from the Federal Technological University of Paraná (UTFPR) in Brazil, completed via a dual degree program. I am passionate about technology and eager to apply my skills in international projects.
 
-### What am I learning?
+### What are my skills?
 
-I have studied Python, JavaScript, Java, C, and some other programming languages. I tend to mainly develop front-end projects, mainly with ReactJS. At the moment, I'm looking to further develop my skills in both front-end and back-end development.
+I have experience with Python, JavaScript, Java, and C. My main focus is **Front-end** and **Mobile Development**. I enjoy building responsive web interfaces with **ReactJS** and cross-platform mobile apps using **Flutter**.
 
-<table><tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="40" height="40" /> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="40" height="40" /> </tr></table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+    </td>
+  </tr>
+</table>
 
 ### What languages do I speak?
 
-My mother tongue is Brazilian Portuguese. I have studied some Spanish, but currently, I'm focused on learning English. In the future, I plan on going back to finish studying Spanish.
-
-<table><tr>
-
-</tr></table>
+My mother tongue is Brazilian Portuguese. I have studied some Spanish, and I am currently focused on improving my English skills for professional communication.
